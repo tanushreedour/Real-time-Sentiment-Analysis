@@ -1,0 +1,4 @@
+azure-ai-textanalytics
+python-dotenv
+azure-cognitiveservices-speech
+azure-core
