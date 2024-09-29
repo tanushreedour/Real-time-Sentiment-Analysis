@@ -3,3 +3,4 @@ python-dotenv
 azure-cognitiveservices-speech
 azure-core
 libssl-dev-libasound2
+streamlit
